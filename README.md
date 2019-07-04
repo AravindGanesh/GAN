@@ -1,2 +1,2 @@
 # GAN
-Honor Project on GANs. 
+Practice and sample GAN implementations 
